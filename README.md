@@ -1,6 +1,3 @@
-Heya, name's Lucio, 22 y/o student trying to get into game development, first as a hobby and hopefully as a profession later on.
-
-I don't really have much to write here, but it was listed as a requirement for some github programs.
 
 
 
